@@ -48,5 +48,8 @@
 - Python  
 
 ### 🖥️ **Interface Development**
-- Tkinter  
+- Tkinter
+
+## 🖥️ **Berikut adalah cuplikan kecil dari interface proyek ini**
+![oi](interface.png)
 
