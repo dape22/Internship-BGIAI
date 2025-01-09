@@ -25,7 +25,6 @@
 ## 📂 **Struktur Direktori**
 ```plaintext
 .
-├── Notebook/             # beberapa skrip untuk eksperimen dan inferensi
 ├── docs/                 # Dokumentasi teknis dan manual pengguna
 ├── README.md             # Dokumentasi proyek
 
